@@ -1,0 +1,10 @@
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\bin\Debug\Praktijk Opdracht OOP.exe.config
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\bin\Debug\Praktijk Opdracht OOP.exe
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\bin\Debug\Praktijk Opdracht OOP.pdb
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk Opdracht OOP.csproj.AssemblyReference.cache
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk_Opdracht_OOP.Form1.resources
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk_Opdracht_OOP.Properties.Resources.resources
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk Opdracht OOP.csproj.GenerateResource.cache
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk Opdracht OOP.csproj.CoreCompileInputs.cache
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk Opdracht OOP.exe
+C:\Users\pietb\source\repos\Praktijk Opdracht OOP\Praktijk Opdracht OOP\obj\Debug\Praktijk Opdracht OOP.pdb
